@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Flutter Extras\\Clima-Flutter-Completed-master\\Clima-Flutter-Completed-master\\build\\geolocator\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mubashshir Firdausi\\.gradle\\caches\\transforms-2\\files-2.1\\e98bbbdf6a23e70c7d5ba31e435328ac\\appcompat-1.0.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Flutter Extras\\Clima-Flutter-Completed-master\\Clima-Flutter-Completed-master\\build\\geolocator\\intermediates\\res\\merged\\release\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mubashshir Firdausi\\.gradle\\caches\\transforms-2\\files-2.1\\e98bbbdf6a23e70c7d5ba31e435328ac\\appcompat-1.0.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

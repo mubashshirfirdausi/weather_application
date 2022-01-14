@@ -1,0 +1,4 @@
+#Fri Jan 14 18:42:48 IST 2022
+base.0=D\:\\Flutter Extras\\Clima-Flutter-Completed-master\\Clima-Flutter-Completed-master\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
